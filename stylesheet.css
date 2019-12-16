@@ -1,0 +1,49 @@
+
+
+
+
+h1 {
+  text-align: center;
+  font-size: 45px;
+  font-style: normal;
+  color:#ffd7e8;
+}
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+  font-style: normal;
+  color: #ffd7e8;
+
+}
+
+h2 {
+  margin-left:20px auto;
+}
+
+body {
+  background-size: cover;
+}
+
+div {
+  width: 100% auto;
+  height: 100% auto;
+  max-height: 100%;
+  margin: 0;
+  padding: 0;
+  background-size:100% 100%;
+  background-repeat: no-repeat;
+}
+
+
+div {
+    height: 200px;
+    width: 400px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+
+}
